@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Shashank 👋
 
-<!--
-**XXIXMMIV-20/XXIXMMIV-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+## My Leetcode Stats :
+[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com/XXIXMMIV_20)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 🌱 Currently learning Data Structures & Algorithms
+* 💻 Solving problems in C++
+* 🤖 Exploring Machine Learning and Artificial Intelligence
+* 🎯 Preparing for GATE 2027
+* 🚀 Working towards software engineering internships
+
+## Current Focus
+
+* Data Structures & Algorithms
+* Computer Science Fundamentals
+* Machine Learning Projects
+* Problem Solving and Competitive Programming
+
+## Tech Stack
+
+### Languages
+
+* C++
+* Python
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+
+## Goals for 2026
+
+* Complete GATE CSE syllabus
+* Strengthen DSA and problem-solving skills
+* Build a Malware Detection using Machine Learning project
+* Build an Algorithm Visualizer
+* Contribute regularly to GitHub
+
+## Connect With Me
+
+* LinkedIn: www.linkedin.com/in/xxixmmiv20
+* 
+
+---
+
+*"Consistency beats intensity."*
+
+
