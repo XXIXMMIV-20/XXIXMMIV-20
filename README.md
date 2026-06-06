@@ -3,7 +3,7 @@
 🎓 B.Tech Computer Science & Engineering Student
 
 ## My Leetcode Stats :
-[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com/XXIXMMIV_20)
+![LeetCode Stats](https://leetcard.jacoblin.cool/XXIXMMIV_20?theme=wtf&font=Noto%20Sans%20TC&ext=heatmap)
 
 ## About Me
 
